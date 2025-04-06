@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Pix</string>
+    <string name="unknown_error">Неизвестная ошибка</string>
+    <string name="back">Назад</string>
+    <string name="grid_header">Flickr Images</string>
+    <string name="error">Ошибка</string>
+    <string name="retry">Обновить</string>
+    <string name="download">Скачать</string>
+    <string name="download_error">Ошибка загрузки</string>
+    <string name="download_success">Файл успешно сохранён</string>
+    <string name="refresh_icon">Refresh Icon</string>
+</resources>
