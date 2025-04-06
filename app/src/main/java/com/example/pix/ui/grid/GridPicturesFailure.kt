@@ -1,6 +1,5 @@
 package com.example.pix.ui.grid
 
-import android.os.Message
 import androidx.compose.foundation.BorderStroke
 import androidx.compose.foundation.layout.fillMaxWidth
 import androidx.compose.foundation.layout.padding

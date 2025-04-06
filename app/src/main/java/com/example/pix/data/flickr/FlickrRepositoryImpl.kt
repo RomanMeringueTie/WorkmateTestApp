@@ -2,7 +2,6 @@ package com.example.pix.data.flickr
 
 import com.example.pix.data.flickr.mapper.toEntity
 import com.example.pix.domain.entity.Picture
-import kotlin.random.Random
 
 class FlickrRepositoryImpl(
     private val flickrApi: FlickrApi,
